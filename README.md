@@ -1,7 +1,5 @@
 <h1>
-    <a href="https://www.dio.me/">
-        <img align="center" width="40px" src="vagrant-logo.png" alt="Vagrant logo">
-    </a>
+    <img align="center" width="40px" src="vagrant-logo.png" alt="Vagrant logo">
     <span>Criando uma máquina virtual pelo Vagrant</span>
 </h1>
 
